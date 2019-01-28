@@ -1,0 +1,1 @@
+exec delete_proceduree
